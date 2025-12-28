@@ -10,4 +10,4 @@ This repository contains basic C programs created will learning core concepts of
 6. Functions
 
 ## Goals
-To built strong programming fundamental through consistent practice.
+To build strong programming fundamental through consistent practice.
