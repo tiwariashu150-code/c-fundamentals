@@ -1,6 +1,7 @@
 # c-fundamentals
 Basic C programs to build strong programming fundamentals.
-This repository contains basic C programs created will learning core concepts of C
+This repository contains basic C programs created while learning core concepts of C.
+
 ## Topics
 1. Vriables and Data Types
 2. Loops
